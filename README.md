@@ -1,5 +1,5 @@
 - 👋 Hi, I’m nishant singh rawal
-- 👀 I’m interested in learning DSA ,Web develpoment and Rust.
+- 👀 I’m interested in learning DSA ,Web develpoment.
 - 🌱 I’m currently learning Web Development and DSA(in c++).
 
 -                                                        ~ Nishant Singh Rawal
